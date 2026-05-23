@@ -555,7 +555,3 @@ llm:
 | `logging` | `log_reasoning` | bool | `true` | Log reasoning traces |
 
 ---
-
-## License
-
-MIT

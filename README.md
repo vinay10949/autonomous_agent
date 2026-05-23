@@ -1,7 +1,6 @@
 # Autonomous Decision-Making Agent
 
-A production-quality Python implementation of the **Perception → Cognition → Action (PCA)** loop — the foundational architectural pattern for autonomous AI agents, based on **Section 5.1 (pp. 118–132)** of *"30 Agents Every AI Engineer Must Build"* (Packt Publishing).
-
+A production-quality Python implementation of the **Perception → Cognition → Action (PCA)** loop — the foundational architectural pattern for autonomous AI agents.
 ---
 
 ## Overview

@@ -1,0 +1,90 @@
+{"timestamp": "2026-05-23T16:29:25.830277", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=50, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:29:25.830425", "level": "INFO", "module": "logger", "message": "Perceived 1 observations (window size: 1)", "raw_count": 1, "filtered_count": 1}
+{"timestamp": "2026-05-23T16:29:25.830481", "level": "ERROR", "module": "logger", "message": "PCA loop crashed: ' and end with '"}
+{"timestamp": "2026-05-23T16:29:25.830513", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:29:25.830535", "level": "INFO", "module": "logger", "message": "SESSION SUMMARY"}
+{"timestamp": "2026-05-23T16:29:25.830557", "level": "INFO", "module": "logger", "message": "  Total iterations:  1"}
+{"timestamp": "2026-05-23T16:29:25.830574", "level": "INFO", "module": "logger", "message": "  Decisions made:    0"}
+{"timestamp": "2026-05-23T16:29:25.830590", "level": "INFO", "module": "logger", "message": "  Actions executed:  0"}
+{"timestamp": "2026-05-23T16:29:25.830606", "level": "INFO", "module": "logger", "message": "  Avg confidence:    0.00"}
+{"timestamp": "2026-05-23T16:29:25.830621", "level": "INFO", "module": "logger", "message": "  Errors:            1"}
+{"timestamp": "2026-05-23T16:29:25.830636", "level": "INFO", "module": "logger", "message": "  Elapsed time:      0.0s"}
+{"timestamp": "2026-05-23T16:29:25.830655", "level": "INFO", "module": "logger", "message": "  Action distribution: {}"}
+{"timestamp": "2026-05-23T16:29:25.830670", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:29:50.172862", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=5, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:29:50.173202", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 2)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:29:50.173261", "level": "ERROR", "module": "logger", "message": "PCA loop crashed: ' and end with '"}
+{"timestamp": "2026-05-23T16:29:50.173292", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:29:50.173314", "level": "INFO", "module": "logger", "message": "SESSION SUMMARY"}
+{"timestamp": "2026-05-23T16:29:50.173335", "level": "INFO", "module": "logger", "message": "  Total iterations:  1"}
+{"timestamp": "2026-05-23T16:29:50.173352", "level": "INFO", "module": "logger", "message": "  Decisions made:    0"}
+{"timestamp": "2026-05-23T16:29:50.173367", "level": "INFO", "module": "logger", "message": "  Actions executed:  0"}
+{"timestamp": "2026-05-23T16:29:50.173382", "level": "INFO", "module": "logger", "message": "  Avg confidence:    0.00"}
+{"timestamp": "2026-05-23T16:29:50.173397", "level": "INFO", "module": "logger", "message": "  Errors:            1"}
+{"timestamp": "2026-05-23T16:29:50.173414", "level": "INFO", "module": "logger", "message": "  Elapsed time:      0.0s"}
+{"timestamp": "2026-05-23T16:29:50.173433", "level": "INFO", "module": "logger", "message": "  Action distribution: {}"}
+{"timestamp": "2026-05-23T16:29:50.173449", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:30:47.777561", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=5, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:30:47.777882", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 2)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:30:47.777944", "level": "ERROR", "module": "logger", "message": "PCA loop crashed: ' and end with '"}
+{"timestamp": "2026-05-23T16:30:47.777979", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:30:47.778001", "level": "INFO", "module": "logger", "message": "SESSION SUMMARY"}
+{"timestamp": "2026-05-23T16:30:47.778031", "level": "INFO", "module": "logger", "message": "  Total iterations:  1"}
+{"timestamp": "2026-05-23T16:30:47.778049", "level": "INFO", "module": "logger", "message": "  Decisions made:    0"}
+{"timestamp": "2026-05-23T16:30:47.778064", "level": "INFO", "module": "logger", "message": "  Actions executed:  0"}
+{"timestamp": "2026-05-23T16:30:47.778079", "level": "INFO", "module": "logger", "message": "  Avg confidence:    0.00"}
+{"timestamp": "2026-05-23T16:30:47.778093", "level": "INFO", "module": "logger", "message": "  Errors:            1"}
+{"timestamp": "2026-05-23T16:30:47.778111", "level": "INFO", "module": "logger", "message": "  Elapsed time:      0.0s"}
+{"timestamp": "2026-05-23T16:30:47.778126", "level": "INFO", "module": "logger", "message": "  Action distribution: {}"}
+{"timestamp": "2026-05-23T16:30:47.778140", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:32:26.834272", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=5, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:32:26.834652", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 2)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:32:26.834711", "level": "ERROR", "module": "logger", "message": "PCA loop crashed: ' and end with '"}
+{"timestamp": "2026-05-23T16:32:26.834744", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:32:26.834768", "level": "INFO", "module": "logger", "message": "SESSION SUMMARY"}
+{"timestamp": "2026-05-23T16:32:26.834789", "level": "INFO", "module": "logger", "message": "  Total iterations:  1"}
+{"timestamp": "2026-05-23T16:32:26.834806", "level": "INFO", "module": "logger", "message": "  Decisions made:    0"}
+{"timestamp": "2026-05-23T16:32:26.834822", "level": "INFO", "module": "logger", "message": "  Actions executed:  0"}
+{"timestamp": "2026-05-23T16:32:26.834838", "level": "INFO", "module": "logger", "message": "  Avg confidence:    0.00"}
+{"timestamp": "2026-05-23T16:32:26.834853", "level": "INFO", "module": "logger", "message": "  Errors:            1"}
+{"timestamp": "2026-05-23T16:32:26.834868", "level": "INFO", "module": "logger", "message": "  Elapsed time:      0.0s"}
+{"timestamp": "2026-05-23T16:32:26.834885", "level": "INFO", "module": "logger", "message": "  Action distribution: {}"}
+{"timestamp": "2026-05-23T16:32:26.834901", "level": "INFO", "module": "logger", "message": "=================================================="}
+{"timestamp": "2026-05-23T16:40:31.410527", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=5, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:40:31.410849", "level": "INFO", "module": "logger", "message": "Perceived 1 observations (window size: 1)", "raw_count": 1, "filtered_count": 1}
+{"timestamp": "2026-05-23T16:43:41.407581", "level": "INFO", "module": "logger", "message": "Decision: tool_use (confidence=0.95)", "decision_id": "844c04c6", "reasoning_summary": "The start-security-patch-review is the primary goal but requires information first. request-pr-details provides high information gain and low risk, making it a critical precursor to effective executio"}
+{"timestamp": "2026-05-23T16:43:41.410293", "level": "INFO", "module": "logger", "message": "Executed tool_use: OK", "action_id": "c067247f", "action_type": "tool_use", "success": true}
+{"timestamp": "2026-05-23T16:43:41.412508", "level": "INFO", "module": "logger", "message": "Action: tool_use \u2192 OK", "event": "action", "action_id": "c067247f", "action_type": "tool_use", "params": {"tool": "start_task", "task_id": "T-001"}, "feedback": {"feedback_id": "cb5b7f8e", "action_id": "c067247f", "success": true, "signal": "positive", "message": "Started task T-001: 'Review and merge PR #247 (security patch)'. Estimated completion in 2 cycles.", "new_observations": ["Task T-001 is now in progress."], "timestamp": "2026-05-23T16:43:41.410251"}}
+{"timestamp": "2026-05-23T16:44:02.364081", "level": "INFO", "module": "logger", "message": "Reflection: The agent successfully transitioned to handling a new high-priority security task without any prior workload.", "would_repeat": true}
+{"timestamp": "2026-05-23T16:44:02.364457", "level": "INFO", "module": "logger", "message": "Cycle 1 completed in 210.95s \u2014 Action: tool_use (confidence=0.95, feedback=OK)", "iteration": 1, "cycle_duration": 210.95366024971008, "action": "tool_use", "confidence": 0.95, "feedback_success": true}
+{"timestamp": "2026-05-23T16:44:04.373781", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 3)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:46:08.200200", "level": "INFO", "module": "logger", "message": "Decision: tool_use (confidence=0.95)", "decision_id": "94756e9d", "reasoning_summary": "The retrieve-pr-details action is the most critical and direct step for information gathering. notify-task-start is low impact on technical progress but good for transparency. verify-testing-tools is "}
+{"timestamp": "2026-05-23T16:46:08.201500", "level": "INFO", "module": "logger", "message": "Executed tool_use: FAIL", "action_id": "43976529", "action_type": "tool_use", "success": false}
+{"timestamp": "2026-05-23T16:46:08.201795", "level": "INFO", "module": "logger", "message": "Action: tool_use \u2192 FAIL", "event": "action", "action_id": "43976529", "action_type": "tool_use", "params": {"tool": "request_info", "resource": "PR #247"}, "feedback": {"feedback_id": "bff6989b", "action_id": "43976529", "success": false, "signal": "negative", "message": "Task  not found.", "new_observations": [], "timestamp": "2026-05-23T16:46:08.201461"}}
+{"timestamp": "2026-05-23T16:46:37.174539", "level": "INFO", "module": "logger", "message": "Reflection: The attempt to gather information failed due to an invalid resource ID, highlighting the need for a verification step before tool usage.", "would_repeat": false}
+{"timestamp": "2026-05-23T16:46:37.174926", "level": "INFO", "module": "logger", "message": "Cycle 2 completed in 152.80s \u2014 Action: tool_use (confidence=0.95, feedback=FAIL)", "iteration": 2, "cycle_duration": 152.8013300895691, "action": "tool_use", "confidence": 0.95, "feedback_success": false}
+{"timestamp": "2026-05-23T16:46:39.185411", "level": "INFO", "module": "logger", "message": "Perceived 1 observations (window size: 4)", "raw_count": 1, "filtered_count": 1}
+{"timestamp": "2026-05-23T16:47:44.557377", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:47:45.906665", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:47:53.026916", "level": "INFO", "module": "logger", "message": "Received signal 15. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:48:18.648031", "level": "INFO", "module": "logger", "message": "Starting PCA loop for 'AutonomousAgent' (max_iterations=5, interval=2.0s)"}
+{"timestamp": "2026-05-23T16:48:18.648426", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 2)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:51:54.575060", "level": "INFO", "module": "logger", "message": "Decision: tool_use (confidence=0.95)", "decision_id": "f97007ec", "reasoning_summary": "The agent's current focus is retrieving details for the security patch review. Therefore, 'request-pr-details' is the most effective action as it directly provides the information needed to proceed. '"}
+{"timestamp": "2026-05-23T16:51:54.577812", "level": "INFO", "module": "logger", "message": "Executed tool_use: OK", "action_id": "bad3b05d", "action_type": "tool_use", "success": true}
+{"timestamp": "2026-05-23T16:51:54.578513", "level": "INFO", "module": "logger", "message": "Action: tool_use \u2192 OK", "event": "action", "action_id": "bad3b05d", "action_type": "tool_use", "params": {"tool": "start_task", "task_id": "T-002"}, "feedback": {"feedback_id": "4d9e7f41", "action_id": "bad3b05d", "success": true, "signal": "positive", "message": "Started task T-002: 'Review and merge PR #247 (security patch)'. Estimated completion in 2 cycles.", "new_observations": ["Task T-002 is now in progress."], "timestamp": "2026-05-23T16:51:54.577769"}}
+{"timestamp": "2026-05-23T16:52:14.774977", "level": "INFO", "module": "logger", "message": "Reflection: The decision to immediately start the high-priority security patch review was appropriate and effective.", "would_repeat": true}
+{"timestamp": "2026-05-23T16:52:14.775520", "level": "INFO", "module": "logger", "message": "Cycle 1 completed in 236.13s \u2014 Action: tool_use (confidence=0.95, feedback=OK)", "iteration": 1, "cycle_duration": 236.1271629333496, "action": "tool_use", "confidence": 0.95, "feedback_success": true}
+{"timestamp": "2026-05-23T16:52:16.788016", "level": "INFO", "module": "logger", "message": "Perceived 2 observations (window size: 4)", "raw_count": 2, "filtered_count": 2}
+{"timestamp": "2026-05-23T16:54:55.857672", "level": "WARNING", "module": "logger", "message": "Action generation failed: Could not parse LLM response as JSON after multiple attempts. Last raw response: {\n  \"candidates\": [\n    {\n      \"name\": \"wait-for-t002-retrieval\",\n      \"description\": \"Wait for the ongoing retrieval of PR details for task T-002 to complete.\",\n      \"action_type\": \"wait\",\n      \"params\": {},\n      \"rationale\": \"The agent is currently in the middle of a retrieval process for T-002 and must wait for the environment to provide the requested information.\"\n    },\n    {\n      \"name\": \"query-t001-status\",\n      \"description\": \"Check the current status and any updated requirements "}
+{"timestamp": "2026-05-23T16:55:18.093976", "level": "INFO", "module": "logger", "message": "Decision: wait (confidence=0.90)", "decision_id": "7ff80401", "reasoning_summary": "The agent is currently in the middle of a retrieval process for T-002. While 'wait-for-info' does not actively progress the task or provide new information itself, it is a low-risk, high-alignment act"}
+{"timestamp": "2026-05-23T16:55:18.094581", "level": "INFO", "module": "logger", "message": "Executed wait: OK", "action_id": "d167f61c", "action_type": "wait", "success": true}
+{"timestamp": "2026-05-23T16:55:18.094949", "level": "INFO", "module": "logger", "message": "Action: wait \u2192 OK", "event": "action", "action_id": "d167f61c", "action_type": "wait", "params": {}, "feedback": {"feedback_id": "b6ac58bc", "action_id": "d167f61c", "success": true, "signal": "neutral", "message": "Agent chose to wait for more information.", "new_observations": [], "timestamp": "2026-05-23T16:55:18.094555"}}
+{"timestamp": "2026-05-23T16:55:30.550926", "level": "INFO", "module": "logger", "message": "Reflection: The decision to wait was appropriate to ensure the security patch review is based on complete and accurate data.", "would_repeat": true}
+{"timestamp": "2026-05-23T16:55:30.551157", "level": "INFO", "module": "logger", "message": "Cycle 2 completed in 193.76s \u2014 Action: wait (confidence=0.90, feedback=OK)", "iteration": 2, "cycle_duration": 193.76359391212463, "action": "wait", "confidence": 0.9, "feedback_success": true}
+{"timestamp": "2026-05-23T16:55:32.561254", "level": "INFO", "module": "logger", "message": "Perceived 1 observations (window size: 5)", "raw_count": 1, "filtered_count": 1}
+{"timestamp": "2026-05-23T16:57:08.421172", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:57:09.520748", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:57:10.236393", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:57:10.460683", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:57:10.641197", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}
+{"timestamp": "2026-05-23T16:57:10.817193", "level": "INFO", "module": "logger", "message": "Received signal 2. Requesting graceful shutdown..."}

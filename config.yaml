@@ -1,0 +1,29 @@
+llm:
+  base_url: "http://localhost:1234/v1"
+  api_key: ""  # empty for local LM Studio
+  model: "gemma-4-26B-A4B"  # options: "qwen3.5", "gemma4"
+  temperature: 0.7
+  max_tokens: 2048
+  top_p: 0.9
+
+agent:
+  name: "AutonomousAgent"
+  loop_interval_seconds: 2.0
+  max_iterations: 5
+  observation_window_size: 10
+  working_memory_size: 20
+  confidence_threshold: 0.6  # below this, agent gathers more info instead of acting
+
+memory:
+  episodic_memory_file: "./data/episodic_memory.json"
+  max_episodic_entries: 100
+
+environment:
+  type: "simulated"  # "simulated" or "custom"
+  scenario: "task_orchestration"  # default scenario
+
+logging:
+  level: "INFO"
+  file: "./logs/agent_trace.jsonl"
+  log_decisions: true
+  log_reasoning: true
